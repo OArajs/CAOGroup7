@@ -1,2 +1,3 @@
-# CAOGroup7
-Assignment of CAO
+# CAO by Group7
+Assignment of CAO on Race Signal with buzzer
+
